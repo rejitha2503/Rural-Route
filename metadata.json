@@ -1,0 +1,6 @@
+{
+  "name": "RuralRoute - Tamil Nadu Bus Information",
+  "description": "Reliable bus timetable, boarding points, and verified connecting bus routes for Tamil Nadu (Pilot: Kovilpatti ↔ Sankarankovil).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
